@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Philosopher of Language</title>
+    <link>https://grammatician.github.io/tags/programming/</link>
+    <description>Recent content in Programming on Philosopher of Language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 May 2021 09:46:35 +1200</lastBuildDate><atom:link href="https://grammatician.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming</title>
+      <link>https://grammatician.github.io/post/programming/</link>
+      <pubDate>Fri, 07 May 2021 09:46:35 +1200</pubDate>
+      
+      <guid>https://grammatician.github.io/post/programming/</guid>
+      <description>Recently, I&amp;rsquo;ve been programming in C++ and I am really happy with the language. Function signatures form their own grammar, and I rely heavily on this for calculation
+I rely heavely on reading funciton declarations. Having them in header files seperated from their definitions, makes C++ easier to read than C# where you have to wade through the definitions to read the signature.
+Without static typing, languages like Python are totally incomprehensible to me.</description>
+    </item>
+    
+  </channel>
+</rss>
